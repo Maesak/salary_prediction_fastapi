@@ -14,4 +14,6 @@ demonstrate:
 
 
 conclusion:
-
+Salary prediction is a valuable tool that can help companies to attract and retain top talent.
+By using salary prediction, companies can more accurately estimate the salary of a software developer and 
+make better decisions about hiring and compensation.
