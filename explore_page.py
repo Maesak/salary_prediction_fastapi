@@ -10,8 +10,6 @@ def shorten_categories(categories, cutoff):
         else:
             categorical_map[categories.index[i]] = 'Other'
     return categorical_map
-
-
 def clean_experience(x):
     if x ==  'More than 50 years':
         return 50
